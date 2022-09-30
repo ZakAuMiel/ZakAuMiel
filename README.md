@@ -1,4 +1,4 @@
-Hey, I'm Zak. A 3rd year student at Epitech.
+Hey, I'm Zak. student at Epitech.
 
 I'm passionate about front-end development, design, UI/UX and 3D. 
 I'm currently playing with frameworks like AnimeJs, Framer-Motion, Three-fiber.js and I'm currently working with React
