@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [zakaria-oubbea.dev](zakaria-oubbea.dev)
 
-- 💬 Ask me about **ReactJS, Unity,**
+- 💬 Ask me about **ReactJS, Unity,Gsap,ThreeJS**
 
 - 📫 How to reach me **zakaria.oubbea@epitech.eu**
 
