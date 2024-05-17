@@ -1,3 +1,7 @@
+
+![eb50875a68b04b0480fa929af2c7547c](https://github.com/ZakAuMiel/ZakAuMiel/assets/90613485/8368b85f-2ffd-4cff-8871-414ac5e4b69a)
+
+
 <h1 align="center">Hi 👋, I'm Zak</h1>
 <h3 align="center">A passionate creative developer</h3>
 
