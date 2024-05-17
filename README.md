@@ -17,8 +17,8 @@
 
 - 📫 How to reach me **zakaria.oubbea@epitech.eu**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zakaumiel&show_icons=true&locale=en&layout=compact" alt="zakaumiel" /></p>
 
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaumiel&" alt="zakaumiel" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zakaumiel&" alt="zakaumiel" /></p>
