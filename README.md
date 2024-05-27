@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Unity, Unreal Engine**
 
-- 👨‍💻 All of my projects are available at <link src="https://www.zakaria-oubbea.dev" />
+- 👨‍💻 All of my projects are available at <p src="https://www.zakaria-oubbea.dev" /> www.zakaria-oubbea.dev </p>
 
 - 💬 Ask me about **ReactJS, Unity, Gsap, ThreeJS**
 
