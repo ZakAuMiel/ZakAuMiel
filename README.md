@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [Zelda-ToTk](Zelda-Totk)
 
-- 🌱 I’m currently learning **Unity, Unreal Engine**
+- 🌱 I’m currently learning **ASP.net Angular**
 
 - 👨‍💻 All of my projects are available at <p src="https://www.zakaria-oubbea.dev" /> www.zakaria-oubbea.dev </p>
 
